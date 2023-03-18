@@ -1,0 +1,13 @@
+package mdsjjorge.web.api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WebAppication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(WebAppication.class, args);
+	}
+
+}
